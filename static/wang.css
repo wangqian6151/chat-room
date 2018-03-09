@@ -1,0 +1,32 @@
+h1{
+    font-family: sans-serif;
+    color: gray;
+}
+
+body{
+    font-family: Verdana, Geneva, Arial;
+    font-size: medium;
+
+}
+
+.header{
+    text-align: center;
+}
+
+.chat{
+    border-color: black;
+    border-width: 1px;
+    border-style: groove;
+    border-radius: 15px;
+    padding: 25px;
+    /*margin: 30px;*/
+    display: block;
+    margin: 0 auto;
+}
+
+
+/*#id_input_text {*/
+    /*width: 450px;*/
+    /*margin: 0 auto;*/
+/*}*/
+
